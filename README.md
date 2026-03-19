@@ -1,5 +1,7 @@
 # Saber | سابر 
-<img width="2752" height="1536" alt="bannar" src="https://github.com/user-attachments/assets/890b107c-83ab-405e-8c28-74ab874b6a1d" />
+
+<img width="3780" height="1890" alt="icon" src="https://github.com/user-attachments/assets/5c56fda3-f8e9-46fc-a575-78019e14a107" />
+
 
 
 **سابر (Saber)** هو أداة بحث صاروخية ومستقلة لنظام تشغيل Windows، مصممة للعثور على الملفات والمجلدات بدقة 100% وبسرعة فائقة. 
